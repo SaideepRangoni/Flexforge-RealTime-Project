@@ -294,12 +294,10 @@ To ensure quality, accuracy, and reliability, we have implemented the following 
 
 These validation methods ensure the documentation is accurate and user-friendly.
 
-## License
 
-This project is licensed under the MIT License. See the [License](https://github.com/22951a6782/Flexforge-RealTime-Project/blob/main/LICENSE) file for details.
 
 ## Contact
 
-For further information or queries, please reach out via email at [peralapranitha17@gmail.com](mailto:peralapranitha17@gmail.com).  
-Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/pranitha-perala-400670317/).
+For further information or queries, please reach out via email at [saideeprangoni@gmail.com](mailto:saideeprangoni@gmail.com).  
+Feel free to connect with me on LinkedIn - [LinkedIn](https://www.linkedin.com/in/saideep-rangoni-54abb9300/).
 
